@@ -1,6 +1,6 @@
 # Plugins Tutoral
 <HR>
-<img src=
+<img src="https://raw.githubusercontent.com/ColorCord/Application/master/download.png">
 <HR>
 Go to Inspect Element Then Go to Console to Run Command Paste it There Theme Set Up.
 <HR>
